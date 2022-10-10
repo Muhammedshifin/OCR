@@ -59,7 +59,7 @@ def convert_image(update,context):
         newFile=context.bot.get_file(file_id)
         file= newFile.file_path
         context.user_data['filepath']=file
-        keyboard =  [[InlineKeyboardButton("Arabic", callback_data='ara'),
+        keyboard =  [[InlineKeyboardButton("Malayalam ", callback_data='mal'),
                       InlineKeyboardButton("Bulgarian", callback_data='bul'),
                       InlineKeyboardButton("Chinese", callback_data='chs')
                      ],
