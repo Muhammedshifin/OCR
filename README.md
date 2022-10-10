@@ -31,7 +31,7 @@ License -> https://github.com/DeccanBotz/OCR/blob/main/LICENSE
 ### Deploy to Heroku
 * Here is the [Tutorial](https://youtu.be/7yqjm-DCaXE) for Creating your own Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DeccanBotz/OCR)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Muhammedshifin/OCR)
 
 ### 👨‍💻 Dev
 
